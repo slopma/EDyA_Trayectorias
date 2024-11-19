@@ -1,6 +1,6 @@
 def generar_matriz_k2(matriz_pesos):
     """
-    Calcula la matriz K^2 (trayectorias de longitud 2).
+    Calcula la matriz K^2 
     """
     n = len(matriz_pesos)
     k2 = [[0 for _ in range(n)] for _ in range(n)]
@@ -16,7 +16,7 @@ def generar_matriz_k2(matriz_pesos):
 
 def generar_matriz_k3(matriz_pesos):
     """
-    Calcula la matriz K^3 (trayectorias de longitud 3).
+    Calcula la matriz K^3 
     """
     n = len(matriz_pesos)
     k3 = [[0 for _ in range(n)] for _ in range(n)]
