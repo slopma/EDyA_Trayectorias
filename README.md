@@ -1,6 +1,6 @@
 # Generador de Grafos y Trayectorias
 
-Este proyecto fue desarrollado en Python y permite generar grafos ponderados, calcular trayectorias \(K_2\) y \(K_3\) basadas en una matriz de pesos y visualizar los resultados en una interfaz gráfica. 
+Este proyecto fue desarrollado en Python y permite generar grafos ponderados, calcular trayectorias \(K2\) y \(K3\) basadas en una matriz de pesos y visualizar los resultados en una interfaz gráfica. 
 
 ## Características del programa
 
@@ -13,9 +13,10 @@ Este proyecto fue desarrollado en Python y permite generar grafos ponderados, ca
 ## Instrucciones para ejecutar el programa
 
 ### Requisitos previos
-
-- Python 3.8 o superior instalado en tu sistema.
-- Instalar las siguientes librerías necesarias:
+Instalar las siguientes librerías necesarias:
+- `tkinter` (para la interfaz gráfica)
+- `networkx` (para la generación y visualización de grafos)
+- `matplotlib` (para graficar los grafos)
 
 ```bash
 pip install networkx matplotlib
