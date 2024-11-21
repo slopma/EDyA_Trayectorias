@@ -2,6 +2,10 @@
 
 Este proyecto fue desarrollado en Python y permite generar grafos ponderados, calcular trayectorias \(K2\) y \(K3\) basadas en una matriz de pesos y visualizar los resultados en una interfaz gráfica. 
 
+_Integrantes:_ 
+- Luis Alejandro Castrillón Pulgarín
+- Sara López Marín
+
 ## Características del programa
 
 - Genera grafos de 2 a 4 nodos, con pesos aleatorios entre 2 y 4.
