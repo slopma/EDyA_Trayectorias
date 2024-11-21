@@ -4,9 +4,9 @@ Este proyecto fue desarrollado en Python y permite generar grafos ponderados, ca
 
 ## Características del programa
 
-- Genera grafos de 2 a 4 nodos, con pesos aleatorios entre 0 y 10.
+- Genera grafos de 2 a 4 nodos, con pesos aleatorios entre 2 y 4.
 - Permite calcular las trayectorias de longitud \(K_2\) y \(K_3\) basadas en la matriz de pesos del grafo.
-- Muestra el grafo generado y sus trayectorias en una interfaz gráfica.
+- Muestra el grafo generado, la matriz de adyacencia correspondiente y sus trayectorias en una interfaz gráfica.
 - Permite generar grafos aleatorios.
 - Visualización clara de los nodos y aristas para entender mejor la estructura del grafo.
 
