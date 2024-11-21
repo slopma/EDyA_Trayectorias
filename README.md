@@ -8,7 +8,7 @@ _Integrantes:_
 
 ## Características del programa
 
-- Genera grafos de 2 a 4 nodos, con pesos aleatorios entre 2 y 4.
+- Genera grafos de 2 a 4 nodos, con pesos aleatorios entre 0 y 10.
 - Permite calcular las trayectorias de longitud \(K_2\) y \(K_3\) basadas en la matriz de pesos del grafo.
 - Muestra el grafo generado, la matriz de adyacencia correspondiente y sus trayectorias en una interfaz gráfica.
 - Permite generar grafos aleatorios.
