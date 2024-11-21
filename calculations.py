@@ -7,7 +7,7 @@ def generar_matriz_k2(matriz_pesos):
 
     for i in range(n):
         for j in range(n):
-            # Suma de productos para todas las trayectorias de longitud 2
+            # trayectorias de longitud 2
             for k in range(n):
                 k2[i][j] += matriz_pesos[i][k] * matriz_pesos[k][j]
 
@@ -23,7 +23,7 @@ def generar_matriz_k3(matriz_pesos):
 
     for i in range(n):
         for j in range(n):
-            # Suma de productos para todas las trayectorias de longitud 3
+            # trayectorias de longitud 3
             for k in range(n):
                 for l in range(n):
                     k3[i][j] += matriz_pesos[i][k] * matriz_pesos[k][l] * matriz_pesos[l][j]
