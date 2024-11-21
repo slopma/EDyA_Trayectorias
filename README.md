@@ -13,6 +13,10 @@ _Integrantes:_
 - Muestra el grafo generado, la matriz de adyacencia correspondiente y sus trayectorias en una interfaz gráfica.
 - Permite generar grafos aleatorios.
 - Visualización clara de los nodos y aristas para entender mejor la estructura del grafo.
+- Permite ver el grado de forma 3D y hacer la comparación entre el 2D y este último.
+
+![image](https://github.com/user-attachments/assets/2654efe0-055a-4553-b72f-89af15284344)
+![image](https://github.com/user-attachments/assets/404fa0e4-8ecc-43a3-93f1-45b8635d5f7a)
 
 ## Instrucciones para ejecutar el programa
 
